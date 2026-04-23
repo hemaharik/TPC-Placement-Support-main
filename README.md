@@ -205,5 +205,5 @@ Feel free to fork and contribute to this project.
 
 👨‍💻 Author
 
-Vijay Reddy
-GitHub: https://github.com/vijay-reddy-18
+Hema Harika
+GitHub: https://github.com/hemaharik
